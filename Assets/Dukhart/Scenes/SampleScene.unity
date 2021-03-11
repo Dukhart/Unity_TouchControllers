@@ -937,7 +937,7 @@ PrefabInstance:
     - target: {fileID: 6196871533589196871, guid: bfd644a7bccd7f54fa7fc3378932bf9c,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -8.8003627e-10
+      value: -8.8003765e-10
       objectReference: {fileID: 0}
     - target: {fileID: 6196871533683177866, guid: bfd644a7bccd7f54fa7fc3378932bf9c,
         type: 3}
@@ -1623,6 +1623,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 583009114}
     m_Modifications:
+    - target: {fileID: 6085450110043740990, guid: 9aa2b84a22d339c4997a0fc36150d6d9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.78431374
+      objectReference: {fileID: 0}
     - target: {fileID: 6085450110762467016, guid: 9aa2b84a22d339c4997a0fc36150d6d9,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1732,6 +1737,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ExampleController
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085450111018358112, guid: 9aa2b84a22d339c4997a0fc36150d6d9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.78431374
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9aa2b84a22d339c4997a0fc36150d6d9, type: 3}
